@@ -10,7 +10,7 @@ Iris-versicolor
 
 Iris-virginica
 
-🚀 Features
+Features
 
 Interactive Streamlit web interface
 
@@ -41,6 +41,7 @@ Sepal Length	Length of the sepal
 Sepal Width	Width of the sepal
 Petal Length	Length of the petal
 Petal Width	Width of the petal
+
 🛠 Technologies Used
 
 Python
@@ -63,15 +64,24 @@ IrisStreamlitApp
 ├── model/
 │   └── model_final.pkl
 └── README.md
+
 ▶️ How to Run the Project
 1️⃣ Clone the repository
+
 git clone https://github.com/your-username/IrisStreamlitApp.git
+
 2️⃣ Navigate to the project folder
+
 cd IrisStreamlitApp
+
 3️⃣ Install dependencies
+
 pip install -r requirements.txt
+
 4️⃣ Run the Streamlit app
+
 streamlit run iris.py
+
 💻 Application Interface
 
 The user enters the flower measurements and the model predicts the species of the Iris flower.
