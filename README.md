@@ -11,15 +11,15 @@ The app uses a trained machine learning model to classify the flower into one of
 
 
 
-Iris-setosa
+1. Iris-setosa
 
 
 
-Iris-versicolor
+2. Iris-versicolor
 
 
 
-Iris-virginica
+3. Iris-virginica
 
 
 
@@ -35,19 +35,19 @@ User input for:
 
 
 
-Petal Length
+1. Petal Length
 
 
 
-Petal Width
+2. Petal Width
 
 
 
-Sepal Length
+3. Sepal Length
 
 
 
-Sepal Width
+4. Sepal Width
 
 
 
@@ -77,13 +77,13 @@ The model predicts the species based on four features:
 
 Feature	Description
 
-Sepal Length	Length of the sepal
+* Sepal Length	Length of the sepal
 
-Sepal Width	Width of the sepal
+* Sepal Width	Width of the sepal
 
-Petal Length	Length of the petal
+* Petal Length	Length of the petal
 
-Petal Width	Width of the petal
+* Petal Width	Width of the petal
 
 
 
@@ -91,27 +91,27 @@ Petal Width	Width of the petal
 
 
 
-Python
+* Python
 
 
 
-Streamlit
+* Streamlit
 
 
 
-Scikit-learn
+* Scikit-learn
 
 
 
-Pandas
+* Pandas
 
 
 
-NumPy
+* NumPy
 
 
 
-Pickle (for loading the trained model)
+* Pickle (for loading the trained model)
 
 
 
