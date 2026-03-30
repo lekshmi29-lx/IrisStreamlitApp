@@ -65,11 +65,9 @@ Uses a trained machine learning model
 
 🧠 **Machine Learning Model**
 
+Model Used: Random Forest Classifier
 
-
-The application loads a pre-trained model (model\_final.pkl) that was trained on the Iris dataset, one of the most famous datasets in machine learning.
-
-
+The model was trained on the Iris dataset, one of the most popular datasets in machine learning.
 
 The model predicts the species based on four features:
 
