@@ -191,19 +191,19 @@ Dataset features:
 
 
 
-Sepal length
+ Sepal length
 
 
 
-Sepal width
+ Sepal width
 
 
 
-Petal length
+ Petal length
 
 
 
-Petal width
+ Petal width
 
 
 
@@ -211,15 +211,15 @@ Target classes:
 
 
 
-Setosa
+ Setosa
 
 
 
-Versicolor
+ Versicolor
 
 
 
-Virginica
+ Virginica
 
 
 
