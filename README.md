@@ -141,7 +141,7 @@ IrisStreamlitApp
 
 
 
-git clone https://github.com/your-username/IrisStreamlitApp.git
+git clone https://github.com/lekshmi29-lx/IrisStreamlitApp.git
 
 
 
